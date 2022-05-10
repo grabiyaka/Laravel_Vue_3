@@ -1,6 +1,7 @@
 @extends('layouts.main')
 
 @section('content')
+
     
     <!-- Content Header (Page header) -->
     <div class="content-header">
